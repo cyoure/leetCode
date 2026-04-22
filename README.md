@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/cyoure/leetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0027-remove-element/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
