@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/cyoure/leetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
