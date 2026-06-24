@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/cyoure/leetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/cyoure/leetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0067-add-binary/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/cyoure/leetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0067-add-binary/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
