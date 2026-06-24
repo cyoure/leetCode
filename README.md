@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0067-add-binary/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
