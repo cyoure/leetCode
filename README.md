@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
