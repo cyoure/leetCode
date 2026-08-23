@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0119-pascals-triangle-ii/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0119-pascals-triangle-ii/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
