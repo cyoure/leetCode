@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/cyoure/leetCode/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
