@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/cyoure/leetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
