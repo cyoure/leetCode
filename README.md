@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/cyoure/leetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0169-majority-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0169-majority-element/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0169-majority-element/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0169-majority-element/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
