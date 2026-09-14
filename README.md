@@ -170,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/cyoure/leetCode/tree/main/Java/Easy/0169-majority-element/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/cyoure/leetCode/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
